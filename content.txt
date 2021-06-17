@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 content 2
+=======
+content
+>>>>>>> c679e6b (content commit 2)
 =======
 content
 >>>>>>> c679e6b (content commit 2)
